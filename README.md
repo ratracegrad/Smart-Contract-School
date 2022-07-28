@@ -8,7 +8,7 @@ Improve your Smart Contract coding skills by building real projects. Pick a chal
 
 Try out the website : [SmartContractsSchool](https://www.smartcontracts.school)
 
-## 👨‍🔧 Tech Stack
+## 👩‍💻 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -72,9 +72,13 @@ npm install
 npm start
 ```
 
-🌟 You are all set!
+🌟 You are all set! 🍾
 
-## 📇 Contact
+## 🏆 Hackathon
+
+This project was created for the [Hashnode and PlanetScale Hackathon](https://townhall.hashnode.com/planetscale-hackathon).
+
+## 📫 Contact
 
 Jennifer Bland - [@ratracegrad](https://twitter.com/ratracegrad)
 
