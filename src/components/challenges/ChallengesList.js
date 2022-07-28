@@ -35,7 +35,7 @@ const ChallengesList = () => {
                 <ChallengeCard
                   key={challenge.challenge_id}
                   challenge={challenge}
-                  challengelist="http://localhost:5000"
+                  challengelist="https://smart-contract-school-api.vercel.app"
                   btnTitle="View Challenge"
                 />
               )
