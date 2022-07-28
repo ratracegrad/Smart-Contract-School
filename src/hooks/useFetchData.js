@@ -8,7 +8,7 @@ const useFetchData = (route) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const { data: response } = await axios.get(`http://localhost:5000${route}`);
+        const { data: response } = await axios.get(`https://smart-contract-school-api.vercel.app${route}`);
         setData(response);
       } catch (error) {
         console.error(error)
